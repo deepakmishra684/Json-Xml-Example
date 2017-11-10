@@ -1,0 +1,10 @@
+->JSON stands for JAVASCRIPT OBJECT NOTATION.
+->The use of json as data formate.
+->There are two famous api use to convert from java object to json and vice versa
+1:- jacton
+2:- gson
+******************************************************************************************
+->JACTON API
+->In jaction api there are two useful mathod
+1:-  writeValueAsString(object) --its use convert from java to json
+2:- readValue(jsonString, clazz) -- its use convert from json to java

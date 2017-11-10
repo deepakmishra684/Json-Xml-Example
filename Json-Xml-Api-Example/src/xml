@@ -1,0 +1,12 @@
+-> JAXB stands for Java Architecture for XML binding
+-> JAXB api is used to convert java object to XML and vice versa
+Converting java object to XML is known as---> Marshalling.
+Converting of XML into java object is --> UnMarshalling.
+***************************************************************************
+Steps for marshalling or unmarshalling
+
+Step1:- create binding class(java bean based class)
+step2:- define mapping betweem java programming elements to XML.
+(the mapping we can define by using JAXB annotation)
+step3:- write logic for marshalling or unmarshalling as per requirement
+ 
